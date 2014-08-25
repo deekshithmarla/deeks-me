@@ -64,10 +64,7 @@
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
             <li><a href="#about">ABOUT</a></li>
-            <li><a href="#project">PROJECTS</a></li>
-            <li><a href="#experience">EXPERIENCE</a></li>
-            <li><a href="#resume">RESUME</a></li>
-            <li><a href="#"><strike>BLOG</strike></a></li>
+            <li><a href="http://doodles-in-my-last-page.blogspot.com">BLOG</a></li>
             <li><a href="#contact">CONTACT</a></li>
           </ul>
         </div><!--/nav-collapse -->
