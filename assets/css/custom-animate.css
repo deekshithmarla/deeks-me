@@ -1,0 +1,9 @@
+.slow {
+	animation-duration: 2s;
+	-webkit-animation-duration: 2s;
+}
+
+.slower {
+	animation-duration: 4s;
+	-webkit-animation-duration: 4s;
+}

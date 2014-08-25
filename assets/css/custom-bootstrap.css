@@ -1,0 +1,80 @@
+.img-responsive {
+    margin: 0 auto !important;
+}
+
+a{
+  text-decoration: underline;
+}
+
+a.contains-image {
+  border: 0;
+  text-decoration: none; 
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+p.sub-heading {
+    font-size: 20px;
+}
+
+.navbar a {
+  text-decoration: none;
+}
+
+.img-center {
+  margin: 0 auto;
+}
+
+.blue {
+  background-color: #3498db;
+  color: white;
+}
+
+.white {
+  background-color: #ffffff;
+}
+
+.cyan {
+  background-color: #19CEE8;
+  color: white;
+}
+
+.gray {
+  background-color: #2f3238;
+}
+
+.gray-dark {
+  background-color: #505050;
+}
+
+.green {
+  background-color: #64ce83;
+  color: white;
+}
+
+.green a {
+  color: #b7f7d7;
+}
+
+.red {
+  color: #e74c3c;
+}
+
+.fluid-container {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.btn:focus {
+  outline: none;
+  box-shadow: none !important;
+}
